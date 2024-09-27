@@ -1,0 +1,3 @@
+#4.adding NOT NULL
+ALTER TABLE modifIer
+MODIFY COLUMN id INT NOT NULL;
