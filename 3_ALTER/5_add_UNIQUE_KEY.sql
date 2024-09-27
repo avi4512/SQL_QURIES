@@ -1,0 +1,4 @@
+
+#5.UNIQUE
+ALTER TABLE modifier
+ADD CONSTRAINT UNIQUE(ph_no);
