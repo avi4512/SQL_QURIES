@@ -1,0 +1,3 @@
+#2.DELETE COLUMN
+ALTER TABLE modifier
+DROP branch;
