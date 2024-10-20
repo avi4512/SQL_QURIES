@@ -9,6 +9,10 @@ name char(10),
 branch char(10),
 per float);
 
+--For the float values ---> DECIMAL(3,2) 
+--it holds total 3 numbers after decimal it holds 2 numbers 
+--ex (8.98)
+
 desc student;
 
 INSERT INTO student
